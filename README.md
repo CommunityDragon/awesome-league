@@ -21,6 +21,11 @@ A list of apps that work with the League of Legends Client API.
 * [Manaflux](https://ryzzzen.github.io/manaflux/) - App that can import runes, spells and item sets. [[Source Code](https://github.com/Ryzzzen/manaflux)]
 * [Sentinel](https://github.com/molenzwiebel/Sentinel) - Enables the use of Windows 10 notifications to show alerts from the client. [[Source Code](https://github.com/molenzwiebel/Sentinel)]
 * [Deceive](https://github.com/molenzwiebel/Deceive) - Masks your online status. [[Source Code](https://github.com/molenzwiebel/Deceive)]
+* [Dark Binding](https://github.com/s-coimbra21/dark-binding-gui) - Manages your keybindings based on your selected champion. [[Source Code](https://github.com/s-coimbra21/dark-binding-gui)]
+* [Insert Mission Here](https://github.com/Earleking/2018-Riot-API-Challenge) - Creates custom missions for clubs. [[Source Code](https://github.com/Earleking/2018-Riot-API-Challenge)]
+* [Trophy Hunter](https://github.com/TiFu/riot-api-challenge-2018) - Creates your own personalized trophy wall based on completed challenges. [[Source Code](https://github.com/TiFu/riot-api-challenge-2018)]
+* [YasuNO](https://github.com/pseudonym117/YasuNO) - Prevents you from selecting Yasuo in champion select. [[Source Code](https://github.com/pseudonym117/YasuNO)]
+* [Ancient Chimes](https://github.com/ulgg/ancient-chimes) - Export your friends list into a text file. [[Source Code](https://github.com/ulgg/ancient-chimes)]
 
 ## Developer Tools
 
