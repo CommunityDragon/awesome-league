@@ -33,3 +33,4 @@ A list of apps that work with the League of Legends Client API.
 * [RiftExplorer](https://github.com/Pupix/rift-explorer) - Electron application to explore the LCU API. [[Source Code](https://github.com/Pupix/rift-explorer)]
 * [lcu-connector](https://github.com/Pupix/lcu-connector) - NPM Module to connect to the LCU automatically. [[Source Code](https://github.com/Pupix/lcu-connector)]
 * [GlassLCU](https://github.com/pipe01/GlassLCU) - C# .NET library that allows you to communicate with the LCU in a typed and always up-to-date manner. [[Source Code](https://github.com/pipe01/GlassLCU)]
+* [lcu-api](https://github.com/jjmaldonis/lcu-api) - A Python LCU wrapper. [[Source](https://github.com/jjmaldonis/lcu-api)]
