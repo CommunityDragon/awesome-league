@@ -26,8 +26,10 @@ A list of apps that work with the League of Legends Client API.
 * [Trophy Hunter](https://github.com/TiFu/riot-api-challenge-2018) - Creates your own personalized trophy wall based on completed challenges. [[Source Code](https://github.com/TiFu/riot-api-challenge-2018)]
 * [YasuNO](https://github.com/pseudonym117/YasuNO) - Prevents you from selecting Yasuo in champion select. [[Source Code](https://github.com/pseudonym117/YasuNO)]
 * [Ancient Chimes](https://github.com/ulgg/ancient-chimes) - Export your friends list into a text file. [[Source Code](https://github.com/ulgg/ancient-chimes)]
+* [Legendary Rune Maker](https://github.com/pipe01/legendary-rune-maker) - Automation app that imports rune pages, item sets and skill order, as well as automatically going through champ select for you.
 
 ## Developer Tools
 
 * [RiftExplorer](https://github.com/Pupix/rift-explorer) - Electron application to explore the LCU API. [[Source Code](https://github.com/Pupix/rift-explorer)]
 * [lcu-connector](https://github.com/Pupix/lcu-connector) - NPM Module to connect to the LCU automatically. [[Source Code](https://github.com/Pupix/lcu-connector)]
+* [GlassLCU](https://github.com/pipe01/GlassLCU) - C# .NET library that allows you to communicate with the LCU in a typed and always up-to-date manner.
