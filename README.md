@@ -45,7 +45,7 @@ A list of apps that work with the League of Legends Client API.
 
 * [LeagueConnect](https://github.com/supergrecko/league-connect) - NPM Module to get the LCU credentials and connect to the websocket. [[Source Code](https://github.com/supergrecko/league-connect)]
 
-* [lcu-connector](https://github.com/Pupix/lcu-connector) - NPM Module to connect to the LCU automatically. [[Source Code]
+* [lcu-connector](https://github.com/Pupix/lcu-connector) - NPM Module to connect to the LCU automatically. [[Source Code](https://github.com/Pupix/lcu-connector)]
 
 * [GlassLCU](https://github.com/pipe01/GlassLCU) - C# .NET library that allows you to communicate with the LCU in a typed and always up-to-date manner. [[Source Code](https://github.com/pipe01/GlassLCU)]
 
