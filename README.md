@@ -33,6 +33,8 @@ A list of apps that work with the League of Legends Client API.
 
 * [Manaflux](https://ryzzzen.github.io/manaflux/) - App that can import runes, spells and item sets. [[Source Code](https://github.com/Ryzzzen/manaflux)]
 
+* [RuneChanger](https://github.com/stirante/RuneChanger) - Allows you to quickly import runes, select recently played champions, quickly reply in chat, automate disenchanting and crafting loot. [[Source Code](https://github.com/stirante/RuneChanger)]
+
 * [Sentinel](https://github.com/molenzwiebel/Sentinel) - Enables the use of Windows 10 notifications to show alerts from the client. [[Source Code](https://github.com/molenzwiebel/Sentinel)]
 
 * [Trophy Hunter](https://github.com/TiFu/riot-api-challenge-2018) - Creates your own personalized trophy wall based on completed challenges. [[Source Code](https://github.com/TiFu/riot-api-challenge-2018)]
@@ -48,6 +50,8 @@ A list of apps that work with the League of Legends Client API.
 * [LeagueConnect](https://github.com/supergrecko/league-connect) - NPM Module to get the LCU credentials and connect to the websocket. [[Source Code](https://github.com/supergrecko/league-connect)]
 
 * [lcu-connector](https://github.com/Pupix/lcu-connector) - NPM Module to connect to the LCU automatically. [[Source Code](https://github.com/Pupix/lcu-connector)]
+
+* [lol-client-java-api](https://github.com/stirante/lol-client-java-api) - Java library for connecting to LCU through API and websocket. [[Source Code](https://github.com/stirante/lol-client-java-api)]
 
 * [GlassLCU](https://github.com/pipe01/GlassLCU) - C# .NET library that allows you to communicate with the LCU in a typed and always up-to-date manner. [[Source Code](https://github.com/pipe01/GlassLCU)]
 
