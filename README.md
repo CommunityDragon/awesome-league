@@ -47,6 +47,8 @@ A list of apps that work with the League of Legends Client API.
 
 * [lcu-driver](https://github.com/sousa-andre/lcu-driver) - Python3 interface for LCU API. [[Source Code](https://github.com/sousa-andre/lcu-driver)]
 
+* [lcu-event-viewer](https://github.com/pipe01/lcu-event-viewer) - View and record events that the LCU sends through websockets. [[Source Code](https://github.com/pipe01/lcu-event-viewer)]
+
 * [LeagueConnect](https://github.com/supergrecko/league-connect) - NPM Module to get the LCU credentials and connect to the websocket. [[Source Code](https://github.com/supergrecko/league-connect)]
 
 * [lcu-connector](https://github.com/Pupix/lcu-connector) - NPM Module to connect to the LCU automatically. [[Source Code](https://github.com/Pupix/lcu-connector)]
