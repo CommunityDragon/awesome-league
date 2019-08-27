@@ -19,7 +19,7 @@ A list of apps that work with the League of Legends Client API.
 
 * [Blitz App](https://blitz.gg/) - All in one assistant that provides information about team, imports runes and item builds.
 
-* [Crescendo](https://github.com/molenzwiebel/crescendo) - Allows you to mute the annoying PHOOOOM sound when you accept the game.
+* [Crescendo](https://github.com/molenzwiebel/crescendo) - Allows you to mute the annoying PHOOOOM sound when you accept the game. [[Source Code](https://github.com/molenzwiebel/crescendo)]
 
 * [Dark Binding](https://github.com/s-coimbra21/dark-binding-gui) - Manages your keybindings based on your selected champion. [[Source Code](https://github.com/s-coimbra21/dark-binding-gui)]
 
