@@ -31,6 +31,8 @@ A list of apps that work with the League of Legends Client API.
 
 * [Legendary Rune Maker](https://github.com/pipe01/legendary-rune-maker) - Automation app that imports rune pages, item sets and skill order, as well as automatically going through champ select for you. [[Source Code](https://github.com/pipe01/legendary-rune-maker)]
 
+* [LolAV](https://github.com/PixelHir/lolav) - Desktop app that will allow you to set a one of hidden tencent icons for your profile. [[Source Code](https://github.com/PixelHir/lolav)]
+
 * [Mimic](http://mimic.molenzwiebel.xyz/) - Allows you to control your client from your phone. [[Source Code](https://github.com/molenzwiebel/mimic)]
 
 * [Manaflux](https://ryzzzen.github.io/manaflux/) - App that can import runes, spells and item sets. [[Source Code](https://github.com/Ryzzzen/manaflux)]
