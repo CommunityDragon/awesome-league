@@ -37,6 +37,8 @@ A list of apps that work with the League of Legends Client API.
 
 * [Manaflux](https://ryzzzen.github.io/manaflux/) - App that can import runes, spells and item sets. [[Source Code](https://github.com/Ryzzzen/manaflux)]
 
+* [RuneBook](https://github.com/OrangeNote/RuneBook) - App that can import runes from many sources. No longer developed. [[Source Code](https://github.com/OrangeNote/RuneBook)]
+
 * [RuneChanger](https://github.com/stirante/RuneChanger) - Allows you to quickly import runes, select recently played champions, quickly reply in chat, automate disenchanting and crafting loot. [[Source Code](https://github.com/stirante/RuneChanger)]
 
 * [Sentinel](https://github.com/molenzwiebel/Sentinel) - Enables the use of Windows 10 notifications to show alerts from the client. [[Source Code](https://github.com/molenzwiebel/Sentinel)]
