@@ -2,6 +2,7 @@
 
 A list of apps that work with the League of Legends Client API.
 
+Join the [Riot Games API Discord Server](https://discordapp.com/invite/riotapi) to find out more about League's APIs and it's possibilities.
 
 ## Contents
 
@@ -37,7 +38,7 @@ A list of apps that work with the League of Legends Client API.
 
 * [Manaflux](https://ryzzzen.github.io/manaflux/) - App that can import runes, spells and item sets. [[Source Code](https://github.com/Ryzzzen/manaflux)]
 
-* [PassCalc](https://github.com/Fumi24/PassCalc) - A calculator for league of legends passes. [[Source Code](https://github.com/Fumi24/PassCalc)]
+* [PassCalc](https://github.com/Fumi24/PassCalc) - A calculator for League of Legends passes. [[Source Code](https://github.com/Fumi24/PassCalc)]
 
 * [RuneBook](https://github.com/OrangeNote/RuneBook) - App that can import runes from many sources. No longer developed. [[Source Code](https://github.com/OrangeNote/RuneBook)]
 
