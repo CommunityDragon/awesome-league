@@ -61,8 +61,11 @@ Join the [Riot Games API Discord Server](https://discordapp.com/invite/riotapi) 
 * [LeagueConnect](https://github.com/supergrecko/league-connect) - NPM Module to get the LCU credentials and connect to the websocket.
 
 * [lcu-connector](https://github.com/Pupix/lcu-connector) - NPM Module to connect to the LCU automatically.
+
 * [lol-client-java-api](https://github.com/stirante/lol-client-java-api) - Java library for connecting to LCU through API and websocket.
 
 * [GlassLCU](https://github.com/pipe01/GlassLCU) - C# .NET library that allows you to communicate with the LCU in a typed and always up-to-date manner.
+
+* [lcu-sharp](https://github.com/bryanhitc/lcu-sharp) - An C# API wrapper for the League of Legends client.
 
 * [RiftExplorer](https://github.com/Pupix/rift-explorer) - Electron application to explore the LCU API.
