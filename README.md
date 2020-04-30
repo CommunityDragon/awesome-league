@@ -31,8 +31,6 @@ Join the [Riot Games API Discord Server](https://discordapp.com/invite/riotapi) 
 
 * [Deceive](https://github.com/molenzwiebel/Deceive) - Masks your online status.
 
-* [Elo.rip](https://elo.rip/) - A chaotic champion randomizer.
-
 * [Hextech Friends](https://hextechfriends.github.io/) - Enables you to invite a lot of people at once.
 
 * [Insert Mission Here](https://github.com/Earleking/2018-Riot-API-Challenge) - Creates custom missions for clubs.
@@ -59,6 +57,7 @@ Join the [Riot Games API Discord Server](https://discordapp.com/invite/riotapi) 
 
 ## External Apps
 
+* [Elo.rip](https://elo.rip/) - A chaotic champion randomizer.
 
 
 ## Developer Tools
