@@ -57,6 +57,7 @@ Join the [Riot Games API Discord Server](https://discordapp.com/invite/riotapi) 
 
 ## External Apps
 
+* [Elo.rip](https://elo.rip/) - A chaotic champion randomizer.
 
 
 ## Developer Tools
