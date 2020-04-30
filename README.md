@@ -1,18 +1,23 @@
 # Awesome League [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
-A list of apps that work with the League of Legends APIs.
+A list of things that work with the League of Legends APIs.
 
 Join the [Riot Games API Discord Server](https://discordapp.com/invite/riotapi) to find out more about League's APIs and it's possibilities.
 
 ## Contents
 
-* [Documentation](#documentation)
-* [Applications](#applications)
-* [Developer Tools](#developer-tools)
+* [Documentation](#documentation) - All sources of information about developing for League.
+* [Applications](#applications) - Apps that work directly with client/game APIs.
+* [External Apps](#external-apps) - Apps that work externally with the use of Riot API.
+* [Developer Tools](#developer-tools) - Tools for help in developing own apps for League
 
 ## Documentation
 
-* [Riot Games LCU Site](https://developer.riotgames.com/league-client-apis.html) - Official article about the LCU.
+* [Riot Developer Portal](https://developer.riotgames.com/docs/lol) - Docs about all of the APIs.
+
+* [HexDocs](https://hexdocs.communitydragon.org/) - Unofficial docs made by the community.
+
+* [Riot Games API Unofficial Community Documentation](https://riot-api-libraries.readthedocs.io/en/latest/) - Another unofficial community docs.
 
 ## Applications
 
@@ -51,6 +56,10 @@ Join the [Riot Games API Discord Server](https://discordapp.com/invite/riotapi) 
 * [Trophy Hunter](https://github.com/TiFu/riot-api-challenge-2018) - Creates your own personalized trophy wall based on completed challenges.
 
 * [YasuNO](https://github.com/pseudonym117/YasuNO) - Prevents you from selecting Yasuo in champion select.
+
+## External Apps
+
+
 
 ## Developer Tools
 
