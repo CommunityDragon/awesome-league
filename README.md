@@ -12,7 +12,9 @@ Join the [Riot Games API Discord Server](https://discordapp.com/invite/riotapi) 
 
 ## Documentation
 
-* [Riot Games LCU Site](https://developer.riotgames.com/league-client-apis.html) - Official article about the LCU.
+* [Riot Developer Portal](https://developer.riotgames.com/docs/lol) - Docs about all of the APIs.
+
+* [HexDocs](https://hexdocs.communitydragon.org/) - Unofficial docs made by the community.
 
 ## Applications
 
