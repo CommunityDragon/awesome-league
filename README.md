@@ -64,7 +64,7 @@ Join the [Riot Games API Discord Server](https://discordapp.com/invite/riotgames
 
 * [League Director](https://github.com/RiotGames/leaguedirector) - Official tool for making advanced League of Legends replays.
 
-* [Creator Suite](https://github.com/SkinSpotlights/CreatorSuite-ReplayAPI) - SkinSpotlights' tool made for the Replay API.
+* [Creator Suite](https://github.com/SkinSpotlights/CreatorSuite-ReplayAPI) - Tool by SkinSpotlights made for the Replay API.
 
 ## Developer Tools
 
