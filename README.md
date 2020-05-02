@@ -9,6 +9,7 @@ Join the [Riot Games API Discord Server](https://discordapp.com/invite/riotgames
 * [Documentation](#documentation) - All sources of information about developing for League.
 * [Applications](#applications) - Apps that work directly with client/game APIs.
 * [External Apps](#external-apps) - Apps that work externally with the use of Riot API.
+* [Content Creation](#content-creation) - Tools made for Content Creators, mostly made with Replay API.
 * [Developer Tools](#developer-tools) - Tools for help in developing own apps for League
 
 ## Documentation
@@ -59,6 +60,11 @@ Join the [Riot Games API Discord Server](https://discordapp.com/invite/riotgames
 
 * [Elo.rip](https://elo.rip/) - A chaotic champion randomizer.
 
+## Content Creation
+
+* [League Director](https://github.com/RiotGames/leaguedirector) - Official tool for making advanced League of Legends replays.
+
+* [Creator Suite](https://github.com/SkinSpotlights/CreatorSuite-ReplayAPI) - SkinSpotlights' tool made for the Replay API.
 
 ## Developer Tools
 
