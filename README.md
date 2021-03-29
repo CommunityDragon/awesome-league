@@ -44,6 +44,8 @@ Join the [Riot Games API Discord Server](https://discordapp.com/invite/riotgames
 
 * [Manaflux](https://ryzzzen.github.io/manaflux/) - App that can import runes, spells and item sets.
 
+* [Nemo](https://nemo.gg/) - Recommends champions to pick/ban, provides information about players, imports runes, spells, item sets.
+
 * [PassCalc](https://github.com/Fumi24/PassCalc) - A calculator for League of Legends passes.
 
 * [RuneBook](https://github.com/OrangeNote/RuneBook) - App that can import runes from many sources. No longer developed.
