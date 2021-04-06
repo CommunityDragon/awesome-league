@@ -68,6 +68,8 @@ Join the [Riot Games API Discord Server](https://discordapp.com/invite/riotgames
 
 * [Creator Suite](https://github.com/SkinSpotlights/CreatorSuite-ReplayAPI) - Tool by SkinSpotlights made for the Replay API.
 
+* [lol-pick-ban-ui](https://github.com/RCVolus/lol-pick-ban-ui) - Web based tournament UI to display champion select picks and bans.
+
 ## Developer Tools
 
 * [lcu-api](https://github.com/jjmaldonis/lcu-api) - A Python LCU wrapper.
