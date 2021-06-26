@@ -78,7 +78,7 @@ Join the [Riot Games API Discord Server](https://discordapp.com/invite/riotgames
 
 * [lcu-event-viewer](https://github.com/pipe01/lcu-event-viewer) - View and record events that the LCU sends through websockets.
 
-* [PoniLCU](https://github.com/Ponita0/PoniLCU) - C# library u can use it to connect to LCU and do different cool things.
+* [PoniLCU](https://github.com/Ponita0/PoniLCU) - C# Library for interacting with the LCU APIs
 
 * [lcu-events](https://github.com/Sunney-X/lcu-events) - Cross platform NPM Module to handle websocket events and make API calls to LCU.
 
