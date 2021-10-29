@@ -16,7 +16,7 @@ Join the [Riot Games API Discord Server](https://discordapp.com/invite/riotgames
 
 * [Riot Developer Portal](https://developer.riotgames.com/docs/lol) - Docs about all of the APIs.
 
-* [HexDocs](https://hexdocs.communitydragon.org/) - Unofficial docs made by the community.
+* [HexDocs](https://hextechdocs.dev/) - Unofficial docs made by the community.
 
 * [Riot Games API Unofficial Community Documentation](https://riot-api-libraries.readthedocs.io/en/latest/) - Another unofficial community docs.
 
