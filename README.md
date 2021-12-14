@@ -36,6 +36,8 @@ Join the [Riot Games Third Party Party Developer Community](https://discordapp.c
 
 * [Insert Mission Here](https://github.com/Earleking/2018-Riot-API-Challenge) - Creates custom missions for clubs.
 
+* [League Fan](https://github.com/league-fan/league-fan.github.io) - A website for previewing League of Legends summoner Icons, emotes, and others.
+
 * [Legendary Rune Maker](https://github.com/pipe01/legendary-rune-maker) - Automation app that imports rune pages, item sets and skill order, as well as automatically going through champ select for you.
 
 * [LickMyRunes](https://github.com/Ponita0/LickMyRunes) - Automatically import runes for your picked champion from OP.GG.
