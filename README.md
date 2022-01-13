@@ -64,6 +64,8 @@ Join the [Riot Games Third Party Party Developer Community](https://discordapp.c
 
 * [Elo.rip](https://elo.rip/) - A chaotic champion randomizer.
 
+* [Skin Explorer](https://www.skinexplorer.lol) - Browse through League of Legends splash art from your browser.
+
 ## Content Creation
 
 * [League Director](https://github.com/RiotGames/leaguedirector) - Official tool for making advanced League of Legends replays.
