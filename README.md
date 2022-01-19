@@ -10,7 +10,8 @@ Join the [Riot Games Third Party Party Developer Community](https://discordapp.c
 * [Applications](#applications) - Apps that work directly with client/game APIs.
 * [External Apps](#external-apps) - Apps that work externally with the use of Riot API.
 * [Content Creation](#content-creation) - Tools made for Content Creators, mostly made with Replay API.
-* [Developer Tools](#developer-tools) - Tools for help in developing own apps for League
+* [Developer Tools](#developer-tools) - Tools for help in developing own apps for League.
+* [DevOps Tools](#devops-tools) - DevOps tools for developing League Apps.
 
 ## Documentation
 
@@ -99,3 +100,9 @@ Join the [Riot Games Third Party Party Developer Community](https://discordapp.c
 * [lcu-sharp](https://github.com/bryanhitc/lcu-sharp) - An C# API wrapper for the League of Legends client.
 
 * [RiftExplorer](https://github.com/Pupix/rift-explorer) - Electron application to explore the LCU API.
+
+## DevOps Tools
+
+* [Setup League Client](https://github.com/marketplace/actions/setup-league-client) - A GitHub Action for setting up LCU on a Windows runner.
+
+* [Download League of Legends Data Dragon](https://github.com/marketplace/actions/download-league-of-legends-data-dragon) - A GitHub Action for downloading the Data Dragon on a runner.
