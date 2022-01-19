@@ -100,4 +100,4 @@ Join the [Riot Games Third Party Party Developer Community](https://discordapp.c
 
 * [Setup League Client](https://github.com/marketplace/actions/setup-league-client) - A GitHub Action for setting up LCU on a Windows runner.
 
-* [Download Data Dragon](https://github.com/marketplace/actions/download-data-dragon) - A GitHub Action for downloading the Data Dragon on a runner.
+* [Download League of Legends Data Dragon](https://github.com/marketplace/actions/download-league-of-legends-data-dragon) - A GitHub Action for downloading the Data Dragon on a runner.
