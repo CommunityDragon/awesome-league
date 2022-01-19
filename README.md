@@ -95,3 +95,5 @@ Join the [Riot Games Third Party Party Developer Community](https://discordapp.c
 * [lcu-sharp](https://github.com/bryanhitc/lcu-sharp) - An C# API wrapper for the League of Legends client.
 
 * [RiftExplorer](https://github.com/Pupix/rift-explorer) - Electron application to explore the LCU API.
+
+* [Setup League Client](https://github.com/marketplace/actions/setup-league-client) - A GitHub Action for setting up LCU on a runner.
