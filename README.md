@@ -101,6 +101,8 @@ Join the [Riot Games Third Party Party Developer Community](https://discordapp.c
 
 * [RiftExplorer](https://github.com/Pupix/rift-explorer) - Electron application to explore the LCU API.
 
+* [league-loader](https://github.com/nomi-san/league-loader) - A small plugin loader for League Client, supports CommonJS modules and DevTools.
+
 ## DevOps Tools
 
 * [Setup League Client](https://github.com/marketplace/actions/setup-league-client) - A GitHub Action for setting up LCU on a Windows runner.
