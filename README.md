@@ -47,8 +47,6 @@ Join the [Riot Games Third Party Party Developer Community](https://discordapp.c
 
 * [Mimic](http://mimic.molenzwiebel.xyz/) - Allows you to control your client from your phone.
 
-* [Manaflux](https://ryzzzen.github.io/manaflux/) - App that can import runes, spells and item sets.
-
 * [Nemo](https://nemo.gg/) - Recommends champions to pick/ban, provides information about players, imports runes, spells, item sets.
 
 * [PassCalc](https://github.com/Fumi24/PassCalc) - A calculator for League of Legends passes.
