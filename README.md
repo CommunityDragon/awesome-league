@@ -33,6 +33,8 @@ Join the [Riot Games Third Party Party Developer Community](https://discordapp.c
 
 * [Deceive](https://github.com/molenzwiebel/Deceive) - Masks your online status.
 
+* [Disenchanter](https://github.com/marvinscham/disenchanter) - Mass disenchant loot like champion shards, event tokens, mythic essence and more.
+
 * [Hextech Friends](https://hextechfriends.github.io/) - Enables you to invite a lot of people at once.
 
 * [Insert Mission Here](https://github.com/Earleking/2018-Riot-API-Challenge) - Creates custom missions for clubs.
