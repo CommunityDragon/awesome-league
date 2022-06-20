@@ -51,6 +51,8 @@ Join the [Riot Games Third Party Party Developer Community](https://discordapp.c
 
 * [PassCalc](https://github.com/Fumi24/PassCalc) - A calculator for League of Legends passes.
 
+* [Qr](https://github.com/GirkovArpa/qr) - Automate the boring stuff, like choosing a gamemode, lanes, queueing up, accepting, and more.
+
 * [RuneBook](https://github.com/Soundofdarkness/RuneBook) - App that can import runes from many sources. Updated fork of the original app.
 
 * [RuneChanger](https://github.com/stirante/RuneChanger) - Allows you to quickly import runes, select recently played champions, quickly reply in chat, automate disenchanting and crafting loot.
