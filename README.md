@@ -2,20 +2,20 @@
 
 A list of things that work with the League of Legends APIs.
 
-Join the [Riot Games Third Party Party Developer Community](https://discordapp.com/invite/riotgamesdevrel) to find out more about League's APIs and its possibilities.
+Join the [Riot Games Third-Party Developer Community](https://discordapp.com/invite/riotgamesdevrel) to learn more about League's APIs and their possibilities.
 
 ## Contents
 
 * [Documentation](#documentation) - All sources of information about developing for League.
 * [Applications](#applications) - Apps that work directly with client/game APIs.
-* [External Apps](#external-apps) - Apps that work externally with the use of Riot API.
+* [External Apps](#external-apps) - Apps that work externally using Riot API.
 * [Content Creation](#content-creation) - Tools made for Content Creators, mostly made with Replay API.
 * [Developer Tools](#developer-tools) - Tools for help in developing own apps for League.
 * [DevOps Tools](#devops-tools) - DevOps tools for developing League Apps.
 
 ## Documentation
 
-* [Riot Developer Portal](https://developer.riotgames.com/docs/lol) - Docs about all of the APIs.
+* [Riot Developer Portal](https://developer.riotgames.com/docs/lol) - Documentations about all the APIs.
 
 * [HexDocs](https://hextechdocs.dev/) - Unofficial docs made by the community.
 
@@ -25,7 +25,7 @@ Join the [Riot Games Third Party Party Developer Community](https://discordapp.c
 
 * [Ancient Chimes](https://github.com/ulgg/ancient-chimes) - Export your friends list into a text file.
 
-* [Blitz App](https://blitz.gg/) - All in one assistant that provides information about team, imports runes and item builds.
+* [Blitz App](https://blitz.gg/) - All in one assistant that provides information about the team, imports runes, and item builds.
 
 * [Crescendo](https://github.com/molenzwiebel/crescendo) - Allows you to mute the annoying PHOOOOM sound when you accept the game.
 
@@ -45,21 +45,21 @@ Join the [Riot Games Third Party Party Developer Community](https://discordapp.c
 
 * [LickMyRunes](https://github.com/Ponita0/LickMyRunes) - Automatically import runes for your picked champion from OP.GG.
 
-* [LolAV](https://github.com/PixelHir/lolav) - Desktop app that will allow you to set a one of hidden tencent icons for your profile.
+* [LolAV](https://github.com/PixelHir/lolav) - A desktop app that will allow you to set one of the hidden Tencent icons for your profile.
 
 * [Mimic](http://mimic.molenzwiebel.xyz/) - Allows you to control your client from your phone.
 
-* [Nemo](https://nemo.gg/) - Recommends champions to pick/ban, provides information about players, imports runes, spells, item sets.
+* [Nemo](https://nemo.gg/) - Recommends champions to pick/ban, provides information about players, imports runes, spells, and item sets.
 
 * [PassCalc](https://github.com/Fumi24/PassCalc) - A calculator for League of Legends passes.
 
 * [RuneBook](https://github.com/Soundofdarkness/RuneBook) - App that can import runes from many sources. Updated fork of the original app.
 
-* [RuneChanger](https://github.com/stirante/RuneChanger) - Allows you to quickly import runes, select recently played champions, quickly reply in chat, automate disenchanting and crafting loot.
+* [RuneChanger](https://github.com/stirante/RuneChanger) - Allows you to quickly import runes, select recently played champions, promptly reply in chat, and automate disenchanting and crafting loot.
 
 * [Sentinel](https://github.com/molenzwiebel/Sentinel) - Enables the use of Windows 10 notifications to show alerts from the client.
 
-* [Trophy Hunter](https://github.com/TiFu/riot-api-challenge-2018) - Creates your own personalized trophy wall based on completed challenges.
+* [Trophy Hunter](https://github.com/TiFu/riot-api-challenge-2018) - Creates your personalized trophy wall based on completed challenges.
 
 * [YasuNO](https://github.com/pseudonym117/YasuNO) - Prevents you from selecting Yasuo in champion select.
 
@@ -83,11 +83,11 @@ Join the [Riot Games Third Party Party Developer Community](https://discordapp.c
 
 * [lcu-driver](https://github.com/sousa-andre/lcu-driver) - Python3 interface for LCU API. 
 
-* [lcu-event-viewer](https://github.com/pipe01/lcu-event-viewer) - View and record events that the LCU sends through websockets.
+* [lcu-event-viewer](https://github.com/pipe01/lcu-event-viewer) - View and record events that the LCU sends through WebSockets.
 
 * [PoniLCU](https://github.com/Ponita0/PoniLCU) - C# Library for interacting with the LCU APIs.
 
-* [lcu-events](https://github.com/Sunney-X/lcu-events) - Cross platform NPM Module to handle websocket events and make API calls to LCU.
+* [lcu-events](https://github.com/Sunney-X/lcu-events) - Cross-platform NPM Module to handle WebSocket events and make API calls to LCU.
 
 * [LeagueConnect](https://github.com/supergrecko/league-connect) - NPM Module to get the LCU credentials and connect to the websocket.
 
