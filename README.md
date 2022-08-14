@@ -2,7 +2,7 @@
 
 A list of things that work with the League of Legends APIs.
 
-Join the [Riot Games Third-Party Developer Community](https://discordapp.com/invite/riotgamesdevrel) to learn more about League's APIs and their possibilities.
+Join the [Riot Games Third Party Developer Community](https://discordapp.com/invite/riotgamesdevrel) to learn more about League's APIs and their possibilities.
 
 ## Contents
 
