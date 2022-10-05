@@ -43,7 +43,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [League Fan](https://github.com/league-fan/league-fan.github.io) - A website for previewing League of Legends summoner Icons, emotes, and others.
 
-* [League Tools](https://github.com/7rebux/league-tools) - A cross-platform desktop app with many league client exploits (e.g profile customization).
+* [League Tools](https://github.com/7rebux/league-tools) - A cross-platform desktop app with many League Client exploits (e.g profile customization).
 
 * [Legendary Rune Maker](https://github.com/pipe01/legendary-rune-maker) - Automation app that imports rune pages, item sets and skill order, as well as automatically going through champ select for you.
 
