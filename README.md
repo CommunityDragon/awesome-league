@@ -51,6 +51,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [LolAV](https://github.com/PixelHir/lolav) - A desktop app that will allow you to set one of the hidden Tencent icons for your profile.
 
+* [Lytical](https://github.com/LyticalApp/Lytical) - Match statistics and profile analytics app for all regions including Garena & WeGame.
+
 * [Mimic](http://mimic.molenzwiebel.xyz/) - Allows you to control your client from your phone.
 
 * [Nemo](https://nemo.gg/) - Recommends champions to pick/ban, provides information about players, imports runes, spells, and item sets.
