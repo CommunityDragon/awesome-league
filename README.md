@@ -23,6 +23,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Applications
 
+* [Amumus Friends](https://github.com/rico-vz/Amumus-Friends) - Export & import your League of Legends friends.
+
 * [Ancient Chimes](https://github.com/ulgg/ancient-chimes) - Export your friends list into a text file.
 
 * [Blitz App](https://blitz.gg/) - All in one assistant that provides information about the team, imports runes, and item builds.
