@@ -37,7 +37,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Deceive](https://github.com/molenzwiebel/Deceive) - Masks your online status.
 
-* [Disenchanter](https://github.com/marvinscham/disenchanter) - Mass disenchant loot like champion shards, event tokens, mythic essence and more.
+* [Disenchanter](https://github.com/marvinscham/disenchanter) - Mass disenchant loot like champion shards, skin shards, mythic essence and more.
 
 * [Hextech Friends](https://hextechfriends.github.io/) - Enables you to invite a lot of people at once.
 
