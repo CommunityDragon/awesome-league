@@ -61,6 +61,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [PassCalc](https://github.com/Fumi24/PassCalc) - A calculator for League of Legends passes.
 
+* [Pengu Loader](https://pengu.lol/) - Unleash the power of Customization from your League of Legends Client.
+
 * [RuneBook](https://github.com/Soundofdarkness/RuneBook) - App that can import runes from many sources. Updated fork of the original app.
 
 * [RuneChanger](https://github.com/stirante/RuneChanger) - Allows you to quickly import runes, select recently played champions, promptly reply in chat, and automate disenchanting and crafting loot.
@@ -110,8 +112,6 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 * [lcu-sharp](https://github.com/bryanhitc/lcu-sharp) - An C# API wrapper for the League of Legends client.
 
 * [RiftExplorer](https://github.com/Pupix/rift-explorer) - Electron application to explore the LCU API.
-
-* [league-loader](https://github.com/nomi-san/league-loader) - A small plugin loader for League Client, supports CommonJS modules and DevTools.
 
 ## DevOps Tools
 
