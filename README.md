@@ -97,6 +97,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [lcu-event-viewer](https://github.com/pipe01/lcu-event-viewer) - View and record events that the LCU sends through WebSockets.
 
+* [llux](https://github.com/BlossomiShymae/llux) - Transfer data to the LCU via the command-line interface.
+
 * [simple-debugger](https://github.com/dragitz/simple-debugger) - Debug client API calls via Fiddler.
 
 * [PoniLCU](https://github.com/Ponita0/PoniLCU) - C# Library for interacting with the LCU APIs.
