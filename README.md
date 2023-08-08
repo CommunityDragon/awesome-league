@@ -21,6 +21,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Riot Games API Unofficial Community Documentation](https://riot-api-libraries.readthedocs.io/en/latest/) - Another unofficial community docs.
 
+* [lolesports-api-docs](https://github.com/vickz84259/lolesports-api-docs) - An unofficial documentation of the lolesports API.
+
 ## Applications
 
 * [Amumus Friends](https://github.com/rico-vz/Amumus-Friends) - Export & import your League of Legends friends.
@@ -54,6 +56,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 * [LickMyRunes](https://github.com/Ponita0/LickMyRunes) - Automatically import runes for your picked champion from OP.GG.
 
 * [LolAV](https://github.com/PixelHir/lolav) - A desktop app that will allow you to set one of the hidden Tencent icons for your profile.
+
+*  [lol-live-esports](https://github.com/Aureom/live-lol-esports) - Real-time information about profissional League of Legends e-Sports matches.
 
 * [Lytical](https://github.com/LyticalApp/Lytical) - Match statistics and profile analytics app for all regions including Garena & WeGame.
 
