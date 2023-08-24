@@ -111,6 +111,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [lcu-connector](https://github.com/Pupix/lcu-connector) - NPM Module to connect to the LCU automatically.
 
+* [hexgate](https://github.com/cuppachino/hexgate) - A TypeScript LCU wrapper available on NPM.
+
 * [lol-client-java-api](https://github.com/stirante/lol-client-java-api) - Java library for connecting to LCU through API and websocket.
 
 * [GlassLCU](https://github.com/pipe01/GlassLCU) - C# .NET library that allows you to communicate with the LCU in a typed and always up-to-date manner.
