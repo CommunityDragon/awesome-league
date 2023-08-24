@@ -121,6 +121,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [RiftExplorer](https://github.com/Pupix/rift-explorer) - Electron application to explore the LCU API.
 
+* [RitoClient](https://github.com/nomi-san/RitoClient) - Deep dive into your RiotClient.
+
 * [go-lcu](https://github.com/ImOlli/go-lcu) - Go Library to automatically retrieve the port and token of the LCU and wrap it behind a reverse proxy.
 
 ## DevOps Tools
