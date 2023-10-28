@@ -51,6 +51,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [League Tools](https://github.com/7rebux/league-tools) - A cross-platform desktop app with many League Client exploits (e.g profile customization).
 
+* [League Unglitch](https://github.com/MaciejGorczyca/League-Unglitch) - Windows C# application using ALREADY EXISTING functionality to fix existing UI/graphical bugs and issues that prevent players from joining champion select, selecting runes, selecting champions, banning champions, making players dodge champion select etc.
+
 * [Legendary Rune Maker](https://github.com/pipe01/legendary-rune-maker) - Automation app that imports rune pages, item sets and skill order, as well as automatically going through champ select for you.
 
 * [LickMyRunes](https://github.com/Ponita0/LickMyRunes) - Automatically import runes for your picked champion from OP.GG.
