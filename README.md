@@ -127,6 +127,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [go-lcu](https://github.com/ImOlli/go-lcu) - Go Library to automatically retrieve the port and token of the LCU and wrap it behind a reverse proxy.
 
+* [Rito](https://github.com/bartekprtc/rito) - C++ set of utility classes for Riot API and LCU API connection.
+
 ## DevOps Tools
 
 * [Setup League Client](https://github.com/marketplace/actions/setup-league-client) - A GitHub Action for setting up LCU on a Windows runner.
