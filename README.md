@@ -103,6 +103,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [llux](https://github.com/BlossomiShymae/llux) - Transfer data to the LCU via the command-line interface.
 
+* [Needlework](https://github.com/BlossomiShymae/Needlework) - A helper development tool and explorer for the LCU.
+
 * [simple-debugger](https://github.com/dragitz/simple-debugger) - Debug client API calls via Fiddler.
 
 * [PoniLCU](https://github.com/Ponita0/PoniLCU) - C# Library for interacting with the LCU APIs.
