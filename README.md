@@ -59,6 +59,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [LolAV](https://github.com/PixelHir/lolav) - A desktop app that will allow you to set one of the hidden Tencent icons for your profile.
 
+* [LoL Society](https://lolsociety.com/) - A stats website that provides many detailed builds and stats for each champion, and champion and builds tierlists.
+
 * [Lytical](https://github.com/LyticalApp/Lytical) - Match statistics and profile analytics app for all regions including Garena & WeGame.
 
 * [Mimic](http://mimic.molenzwiebel.xyz/) - Allows you to control your client from your phone.
