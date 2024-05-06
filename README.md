@@ -83,6 +83,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## External Apps
 
+* [Clean Cuts](https://blossomishymae.github.io/clean-cuts/) - Provides League of Legends game data in a human-friendly format.
+
 * [Elo.rip](https://elo.rip/) - A chaotic champion randomizer.
 
 * [Heimerdinger.lol](https://heimerdinger.lol/) - Website dedicated to providing you with information about League of Legends. Such as Sale Rotations, Emotes and more.
