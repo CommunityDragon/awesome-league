@@ -1,9 +1,14 @@
-name: Awesome List Linting
-on: [push, pull_request]
+name: Awesome List Lint
+on:
+  pull_request:
+    branches: [master]
+  push:
+    branches: [master]
 jobs:
-  lint:
-    name: Lint
+  Awesome_Lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1.0.0
-      - uses: PixelHir/awesome-lint-fix@master
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - run: npx awesome-lint
