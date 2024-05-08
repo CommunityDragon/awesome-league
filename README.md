@@ -45,6 +45,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Insert Mission Here](https://github.com/Earleking/2018-Riot-API-Challenge) - Creates custom missions for clubs.
 
+* [LeagueAutoAccept](https://github.com/sweetriverfish/LeagueAutoAccept) - A console app that allows you to automatically accept queue, pick or ban a champion and more.
+  
 * [League Fan](https://github.com/league-fan/league-fan.github.io) - A website for previewing League of Legends summoner Icons, emotes, and others.
 
 * [LeagueRecord](https://github.com/FFFFFFFXXXXXXX/league_record) - A lightweight program that automatically records LoL games and saves the timestamps of the most important events in the game.
