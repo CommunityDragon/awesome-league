@@ -115,6 +115,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [simple-debugger](https://github.com/dragitz/simple-debugger) - Debug client API calls via Fiddler.
 
+* [GrrrLCU](https://github.com/BlossomiShymae/GrrrLCU) - A simple C# wrapper for the LCU.
+
 * [PoniLCU](https://github.com/Ponita0/PoniLCU) - C# Library for interacting with the LCU APIs.
 
 * [lcu-events](https://github.com/Sunney-X/lcu-events) - Cross-platform NPM Module to handle WebSocket events and make API calls to LCU.
