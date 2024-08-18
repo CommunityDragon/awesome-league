@@ -23,8 +23,6 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Applications
 
-* [Amumus Friends](https://github.com/rico-vz/Amumus-Friends) - Export & import your League of Legends friends.
-
 * [Ancient Chimes](https://github.com/ulgg/ancient-chimes) - Export your friends list into a text file.
 
 * [ARAM Zone](https://aram.zone/) - ARAM-focused website that provides many detailed builds for each champion, tierlist and match history.
