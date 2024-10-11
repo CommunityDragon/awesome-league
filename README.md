@@ -91,6 +91,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Heimerdinger.lol](https://heimerdinger.lol/) - Website dedicated to providing you with information about League of Legends. Such as Sale Rotations, Emotes and more.
 
+* [lolskin.info](https://lolskin.info) - Skins information and browsing tool, combines information from the client, YouTube and League wiki in one place.
+
 * [Skin Explorer](https://www.skinexplorer.lol) - Browse through League of Legends splash art from your browser.
 
 ## Content Creation
