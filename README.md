@@ -97,6 +97,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [YearIn.LoL](https://yearin.lol) - A yearly recap that presents your League of Legends stats in a fun and entertaining way. 
 
+* [ClutchGG.LOL](https://clutchgg.lol) - A lightweight League of Legends Profile Stat/Leaderboard Tracker. Fit with Live Games, Match details and more.  
+
 ## Content Creation
 
 * [League Director](https://github.com/RiotGames/leaguedirector) - Official tool for making advanced League of Legends replays.
