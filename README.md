@@ -65,6 +65,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Lytical](https://github.com/LyticalApp/Lytical) - Match statistics and profile analytics app for all regions including Garena & WeGame.
 
+* [MetaBot.GG](https://metabot.gg/league) - Analytics tool that provides data on the best champions, items, runes, etc.
+
 * [Mimic](http://mimic.molenzwiebel.xyz/) - Allows you to control your client from your phone.
 
 * [Nemo](https://nemo.gg/) - Recommends champions to pick/ban, provides information about players, imports runes, spells, and item sets.
