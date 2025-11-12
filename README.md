@@ -85,6 +85,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [YasuNO](https://github.com/pseudonym117/YasuNO) - Prevents you from selecting Yasuo in champion select.
 
+* [ytLegends](https://github.com/0adri3n/ytLegends) - A League Of Legends overlay to play YouTube videos in-game.
+
 ## External Apps
 
 * [Clean Cuts](https://blossomishymae.github.io/clean-cuts/) - Provides League of Legends game data in a human-friendly format.
