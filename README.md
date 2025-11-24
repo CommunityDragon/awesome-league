@@ -44,8 +44,6 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 * [Hwei's Brush](https://github.com/rico-vz/Hweis-Brush) - Change your League of Legends Profile background to any splash art of your choice.
 
 * [Insert Mission Here](https://github.com/Earleking/2018-Riot-API-Challenge) - Creates custom missions for clubs.
-
-* [LeagueAutoAccept](https://github.com/sweetriverfish/LeagueAutoAccept) - A console app that allows you to automatically accept queue, pick or ban a champion and more.
   
 * [League Fan](https://github.com/league-fan/league-fan.github.io) - A website for previewing League of Legends summoner Icons, emotes, and others.
 
