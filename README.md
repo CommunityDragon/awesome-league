@@ -11,7 +11,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 * [External Apps](#external-apps) - Apps that work externally using Riot API.
 * [Content Creation](#content-creation) - Tools made for Content Creators, mostly made with Replay API.
 * [Developer Tools](#developer-tools) - Tools for help in developing own apps for League.
-* [DevOps Tools](#devops-tools) - DevOps tools for developing League Apps.
+* [DevOps Tools](#devops-tools) - Development utilities for creating League Apps.
 
 ## Documentation
 
