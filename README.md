@@ -11,7 +11,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 * [External Apps](#external-apps) - Apps that work externally using Riot API.
 * [Content Creation](#content-creation) - Tools made for Content Creators, mostly made with Replay API.
 * [Developer Tools](#developer-tools) - Tools for help in developing own apps for League.
-* [DevOps Tools](#devops-tools) - DevOps tools for developing League Apps.
+* [DevOps Tools](#devops-tools) - Development utilities for creating League Apps.
 
 ## Documentation
 
@@ -22,8 +22,6 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 * [Riot Games API Unofficial Community Documentation](https://riot-api-libraries.readthedocs.io/en/latest/) - Another unofficial community docs.
 
 ## Applications
-
-* [Amumus Friends](https://github.com/rico-vz/Amumus-Friends) - Export & import your League of Legends friends.
 
 * [Ancient Chimes](https://github.com/ulgg/ancient-chimes) - Export your friends list into a text file.
 
@@ -42,6 +40,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 * [Disenchanter](https://github.com/marvinscham/disenchanter) - Mass disenchant loot like champion shards, skin shards, mythic essence and more.
 
 * [Hextech Friends](https://hextechfriends.github.io/) - Enables you to invite a lot of people at once.
+
+* [Hwei's Brush](https://github.com/rico-vz/Hweis-Brush) - Change your League of Legends Profile background to any splash art of your choice.
 
 * [Insert Mission Here](https://github.com/Earleking/2018-Riot-API-Challenge) - Creates custom missions for clubs.
 
@@ -65,6 +65,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Lytical](https://github.com/LyticalApp/Lytical) - Match statistics and profile analytics app for all regions including Garena & WeGame.
 
+* [MetaBot.GG](https://metabot.gg/league) - Analytics tool that provides data on the best champions, items, runes, etc.
+
 * [Mimic](http://mimic.molenzwiebel.xyz/) - Allows you to control your client from your phone.
 
 * [Nemo](https://nemo.gg/) - Recommends champions to pick/ban, provides information about players, imports runes, spells, and item sets.
@@ -83,6 +85,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [YasuNO](https://github.com/pseudonym117/YasuNO) - Prevents you from selecting Yasuo in champion select.
 
+* [ytLegends](https://github.com/0adri3n/ytLegends) - A League Of Legends overlay to play YouTube videos in-game.
+
 ## External Apps
 
 * [Clean Cuts](https://blossomishymae.github.io/clean-cuts/) - Provides League of Legends game data in a human-friendly format.
@@ -91,7 +95,15 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Heimerdinger.lol](https://heimerdinger.lol/) - Website dedicated to providing you with information about League of Legends. Such as Sale Rotations, Emotes and more.
 
+* [lolskin.info](https://lolskin.info) - Skins information and browsing tool, combines information from the client, YouTube and League wiki in one place.
+
 * [Skin Explorer](https://www.skinexplorer.lol) - Browse through League of Legends splash art from your browser.
+
+* [YearIn.LoL](https://yearin.lol) - A yearly recap that presents your League of Legends stats in a fun and entertaining way. 
+
+* [ClutchGG.LOL](https://clutchgg.lol) - A lightweight League of Legends Profile Stat/Leaderboard Tracker. Fit with Live Games, Match details and more.
+
+* [LeagueStreams.gg](https://leaguestreams.gg) - Browse through Live League of Legends Streams with in-Game Informations or watch thousands of VODs by Champion, Lane or even Opponent.
 
 ## Content Creation
 
@@ -111,9 +123,11 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [llux](https://github.com/BlossomiShymae/llux) - Transfer data to the LCU via the command-line interface.
 
-* [Needlework](https://github.com/BlossomiShymae/Needlework) - A helper development tool and explorer for the LCU.
+* [Needlework.Net](https://github.com/BlossomiShymae/Needlework.Net) - A helper development tool and explorer for the LCU.
 
 * [simple-debugger](https://github.com/dragitz/simple-debugger) - Debug client API calls via Fiddler.
+
+* [GrrrLCU](https://github.com/BlossomiShymae/GrrrLCU) - A simple C# wrapper for the LCU.
 
 * [PoniLCU](https://github.com/Ponita0/PoniLCU) - C# Library for interacting with the LCU APIs.
 
