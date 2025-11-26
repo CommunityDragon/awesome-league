@@ -103,6 +103,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [ClutchGG.LOL](https://clutchgg.lol) - A lightweight League of Legends Profile Stat/Leaderboard Tracker. Fit with Live Games, Match details and more.
 
+* [LeagueStats](https://leaguestats.gg/) - Website that provides global complete data for all League of Legends summoners.
+
 * [LeagueStreams.gg](https://leaguestreams.gg) - Browse through Live League of Legends Streams with in-Game Informations or watch thousands of VODs by Champion, Lane or even Opponent.
 
 ## Content Creation
