@@ -83,8 +83,6 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Trophy Hunter](https://github.com/TiFu/riot-api-challenge-2018) - Creates your personalized trophy wall based on completed challenges.
 
-* [UnmaskedLeague](https://github.com/xBaank/UnmaskedLeague) - Reveals the names of players in a soloQ lobby.
-
 * [YasuNO](https://github.com/pseudonym117/YasuNO) - Prevents you from selecting Yasuo in champion select.
 
 * [ytLegends](https://github.com/0adri3n/ytLegends) - A League Of Legends overlay to play YouTube videos in-game.
