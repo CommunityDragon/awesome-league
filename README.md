@@ -27,6 +27,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [ARAM Zone](https://aram.zone/) - ARAM-focused website that provides many detailed builds for each champion, tierlist and match history.
 
+* [ARAM Mayhem](https://arammayhem.com/) - ARAM augments, champion-augment combos, tier lists, and balance changes. Focused on helping players pick the best augments and builds during ARAM games.
+
 * [Blitz App](https://blitz.gg/) - All in one assistant that provides information about the team, imports runes, and item builds.
 
 * [ChampR](https://github.com/cangzhang/champ-r) - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
