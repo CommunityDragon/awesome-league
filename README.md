@@ -4,90 +4,59 @@ A list of things that work with the League of Legends APIs.
 
 Join the [Riot Games Third Party Developer Community](https://discordapp.com/invite/riotgamesdevrel) to learn more about League's APIs and their possibilities.
 
+
 ## Contents
 
-* [Documentation](#documentation) - All sources of information about developing for League.
-* [Applications](#applications) - Apps that work directly with client/game APIs.
-* [External Apps](#external-apps) - Apps that work externally using Riot API.
-* [Content Creation](#content-creation) - Tools made for Content Creators, mostly made with Replay API.
-* [Developer Tools](#developer-tools) - Tools for help in developing own apps for League.
-* [DevOps Tools](#devops-tools) - Development utilities for creating League Apps.
+* [Client Applications](#client-applications) - Apps that work directly with client/game APIs.
 
-## Documentation
+* [External Applications](#external-applications) - Apps that work externally using Riot API, often web-based.
 
-* [Riot Developer Portal](https://developer.riotgames.com/docs/lol) - Documentations about all the APIs.
+* [Content Creation Tools](#content-creation-tools) - Tools for creating League-related content like replays or UIs for streaming.
 
-* [HexDocs](https://hextechdocs.dev/) - Unofficial docs made by the community.
+* [Developer Tools](#developer-tools) - Libraries and tools for developers working with League APIs.
 
-* [Riot Games API Unofficial Community Documentation](https://riot-api-libraries.readthedocs.io/en/latest/) - Another unofficial community docs.
+* [Developer Documentation](#developer-documentation) - Official and unofficial documentation for League APIs.
 
-## Applications
+* [Unmaintained Projects](#unmaintained-projects) - Projects that used to be here but appear to be no longer maintained. Assume that these projects may not work with the latest version of League of Legends, and are here for archival purposes only.
+
+
+## Client Applications
 
 * [Ancient Chimes](https://github.com/ulgg/ancient-chimes) - Export your friends list into a text file.
 
-* [ARAM Zone](https://aram.zone/) - ARAM-focused website that provides many detailed builds for each champion, tierlist and match history.
+* [Blitz App](https://blitz.gg/download) - All in one assistant that provides information about the team, imports runes, and item builds.
 
-* [Blitz App](https://blitz.gg/) - All in one assistant that provides information about the team, imports runes, and item builds.
-
-* [ChampR](https://github.com/cangzhang/champ-r) - Allows auto generate recommend champion builds and popup runes list and apply on the fly.
+* [ChampR](https://github.com/cangzhang/champ-r) - Allows auto generating recommended champion builds, runes and applies them on the fly.
 
 * [Crescendo](https://github.com/molenzwiebel/crescendo) - Allows you to mute the annoying PHOOOOM sound when you accept the game.
-
-* [Dark Binding](https://github.com/s-coimbra21/dark-binding-gui) - Manages your keybindings based on your selected champion.
 
 * [Deceive](https://github.com/molenzwiebel/Deceive) - Masks your online status.
 
 * [Disenchanter](https://github.com/marvinscham/disenchanter) - Mass disenchant loot like champion shards, skin shards, mythic essence and more.
 
-* [Hextech Friends](https://hextechfriends.github.io/) - Enables you to invite a lot of people at once.
-
 * [Hwei's Brush](https://github.com/rico-vz/Hweis-Brush) - Change your League of Legends Profile background to any splash art of your choice.
-
-* [Insert Mission Here](https://github.com/Earleking/2018-Riot-API-Challenge) - Creates custom missions for clubs.
-
-* [LeagueAutoAccept](https://github.com/sweetriverfish/LeagueAutoAccept) - A console app that allows you to automatically accept queue, pick or ban a champion and more.
-  
-* [League Fan](https://github.com/league-fan/league-fan.github.io) - A website for previewing League of Legends summoner Icons, emotes, and others.
 
 * [LeagueRecord](https://github.com/FFFFFFFXXXXXXX/league_record) - A lightweight program that automatically records LoL games and saves the timestamps of the most important events in the game.
 
-* [League Tools](https://github.com/7rebux/league-tools) - A cross-platform desktop app with many League Client exploits (e.g profile customization).
-
-* [League Unglitch](https://github.com/MaciejGorczyca/League-Unglitch) - Windows C# application using ALREADY EXISTING functionality to fix existing UI/graphical bugs and issues that prevent players from joining champion select, selecting runes, selecting champions, banning champions, making players dodge champion select etc.
-
-* [Legendary Rune Maker](https://github.com/pipe01/legendary-rune-maker) - Automation app that imports rune pages, item sets and skill order, as well as automatically going through champ select for you.
-
-* [LickMyRunes](https://github.com/Ponita0/LickMyRunes) - Automatically import runes for your picked champion from OP.GG.
-
-* [LolAV](https://github.com/PixelHir/lolav) - A desktop app that will allow you to set one of the hidden Tencent icons for your profile.
-
-* [LoL Society](https://lolsociety.com/) - A stats website that provides many detailed builds and stats for each champion, and champion and builds tierlists.
+* [League Tools](https://github.com/7rebux/league-tools) - A cross-platform desktop app with many League Client exploits (e.g. profile customization).
 
 * [Lytical](https://github.com/LyticalApp/Lytical) - Match statistics and profile analytics app for all regions including Garena & WeGame.
 
-* [MetaBot.GG](https://metabot.gg/league) - Analytics tool that provides data on the best champions, items, runes, etc.
-
-* [Mimic](http://mimic.molenzwiebel.xyz/) - Allows you to control your client from your phone.
+* [Mimic](https://mimic.lol) - Allows you to control your League client from your phone.
 
 * [Nemo](https://nemo.gg/) - Recommends champions to pick/ban, provides information about players, imports runes, spells, and item sets.
 
-* [PassCalc](https://github.com/Fumi24/PassCalc) - A calculator for League of Legends passes.
-
-* [Pengu Loader](https://pengu.lol/) - Unleash the power of Customization from your League of Legends Client.
-
-* [RuneBook](https://github.com/Soundofdarkness/RuneBook) - App that can import runes from many sources. Updated fork of the original app.
-
-* [RuneChanger](https://github.com/stirante/RuneChanger) - Allows you to quickly import runes, select recently played champions, promptly reply in chat, and automate disenchanting and crafting loot.
-
-* [Sentinel](https://github.com/molenzwiebel/Sentinel) - Enables the use of Windows 10 notifications to show alerts from the client.
-
-* [Trophy Hunter](https://github.com/TiFu/riot-api-challenge-2018) - Creates your personalized trophy wall based on completed challenges.
-
-* [YasuNO](https://github.com/pseudonym117/YasuNO) - Prevents you from selecting Yasuo in champion select.
+* [Pengu Loader](https://pengu.lol/) - Unleash the power of customization from your League of Legends Client.
 
 * [ytLegends](https://github.com/0adri3n/ytLegends) - A League Of Legends overlay to play YouTube videos in-game.
 
-## External Apps
+
+## External Applications
+* [ARAM Zone](https://aram.zone/) - ARAM-focused website that provides many detailed builds for each champion, tierlist and match history.
+
+* [Blitz](https://blitz.gg/) - All in one assistant that provides information about the team, imports runes, and item builds.
+
+* [League Fan](https://github.com/league-fan/league-fan.github.io) - A website for previewing League of Legends summoner Icons, emotes, and others.
 
 * [Clean Cuts](https://blossomishymae.github.io/clean-cuts/) - Provides League of Legends game data in a human-friendly format.
 
@@ -99,7 +68,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Skin Explorer](https://www.skinexplorer.lol) - Browse through League of Legends splash art from your browser.
 
-* [YearIn.LoL](https://yearin.lol) - A yearly recap that presents your League of Legends stats in a fun and entertaining way. 
+* [YearIn.LoL](https://yearin.lol) - A yearly recap that presents your League of Legends stats in a fun and entertaining way.
 
 * [ClutchGG.LOL](https://clutchgg.lol) - A lightweight League of Legends Profile Stat/Leaderboard Tracker. Fit with Live Games, Match details and more.
 
@@ -107,11 +76,10 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [LeagueStreams.gg](https://leaguestreams.gg) - Browse through Live League of Legends Streams with in-Game Informations or watch thousands of VODs by Champion, Lane or even Opponent.
 
-## Content Creation
+
+## Content Creation Tools
 
 * [League Director](https://github.com/RiotGames/leaguedirector) - Official tool for making advanced League of Legends replays.
-
-* [Creator Suite](https://github.com/SkinSpotlights/CreatorSuite-ReplayAPI) - Tool by SkinSpotlights made for the Replay API.
 
 * [lol-pick-ban-ui](https://github.com/RCVolus/lol-pick-ban-ui) - Web based tournament UI to display champion select picks and bans.
 
@@ -157,10 +125,52 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Rito](https://github.com/bartekprtc/rito) - C++ set of utility classes for Riot API and LCU API connection.
 
-## DevOps Tools
-
 * [Setup League Client](https://github.com/marketplace/actions/setup-league-client) - A GitHub Action for setting up LCU on a Windows runner.
 
 * [Download League of Legends Data Dragon](https://github.com/marketplace/actions/download-league-of-legends-data-dragon) - A GitHub Action for downloading the Data Dragon on a runner.
 
 * [Get League Patch](https://github.com/marvinscham/get-league-patch) - A GitHub Action saving the latest patch into a variable.
+
+
+## Developer Documentation
+
+* [Riot Developer Portal](https://developer.riotgames.com/docs/lol) - Documentations about all the APIs.
+
+* [HexDocs](https://hextechdocs.dev/) - Unofficial docs made by the community.
+
+* [Riot Games API Unofficial Community Documentation](https://riot-api-libraries.readthedocs.io/en/latest/) - Another unofficial community docs.
+
+
+## Unmaintained Projects
+
+* [Dark Binding](https://github.com/s-coimbra21/dark-binding-gui) - Manages your keybindings based on your selected champion.
+
+* [Hextech Friends](https://hextechfriends.github.io/) - Enables you to invite a lot of people at once.
+
+* [Insert Mission Here](https://github.com/Earleking/2018-Riot-API-Challenge) - Creates custom missions for clubs.
+
+* [League Unglitch](https://github.com/MaciejGorczyca/League-Unglitch) - Windows C# application using already existing functionality to fix existing UI/graphical bugs and issues that prevent players from joining champion select, selecting runes, selecting champions, banning champions, making players dodge champion select etc.
+
+* [Legendary Rune Maker](https://github.com/pipe01/legendary-rune-maker) - Automation app that imports rune pages, item sets and skill order, as well as automatically going through champ select for you.
+
+* [LickMyRunes](https://github.com/Ponita0/LickMyRunes) - Automatically import runes for your picked champion from OP.GG.
+
+* [LolAV](https://github.com/PixelHir/lolav) - A desktop app that will allow you to set one of the hidden Tencent icons for your profile.
+
+* [LoL Society](https://lolsociety.com/) - A stats website that provides many detailed builds and stats for each champion, and champion and builds tierlists.
+
+* [MetaBot.GG](https://metabot.gg/league) - Analytics tool that provides data on the best champions, items, runes, etc. 
+
+* [PassCalc](https://github.com/Fumi24/PassCalc) - A calculator for League of Legends passes.
+
+* [RuneBook](https://github.com/Soundofdarkness/RuneBook) - App that can import runes from many sources. Updated fork of the original app.
+
+* [RuneChanger](https://github.com/stirante/RuneChanger) - Allows you to quickly import runes, select recently played champions, promptly reply in chat, and automate disenchanting and crafting loot.
+
+* [Sentinel](https://github.com/molenzwiebel/Sentinel) - Enables the use of Windows 10 notifications to show alerts from the client.
+
+* [Trophy Hunter](https://github.com/TiFu/riot-api-challenge-2018) - Creates your personalized trophy wall based on completed challenges.
+
+* [YasuNO](https://github.com/pseudonym117/YasuNO) - Prevents you from selecting Yasuo in champion select.
+
+* [Creator Suite](https://github.com/SkinSpotlights/CreatorSuite-ReplayAPI) - Tool by SkinSpotlights made for the Replay API.
