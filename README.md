@@ -139,6 +139,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [LeagueConnect](https://github.com/supergrecko/league-connect) - NPM Module to get the LCU credentials and connect to the websocket.
 
+* [league-client-mcp](https://github.com/rumi-chan/league-client-mcp) - Connect Claude Code, Antigravity, Codex, and others to the League Client through MCP and Pengu Loader.
+
 * [lcu-connector](https://github.com/Pupix/lcu-connector) - NPM Module to connect to the LCU automatically.
 
 * [hexgate](https://github.com/cuppachino/hexgate) - A TypeScript LCU wrapper available on NPM.
