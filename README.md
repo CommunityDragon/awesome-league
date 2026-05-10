@@ -23,6 +23,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Applications
 
+* [league_profile_tool](https://github.com/l9lenny/league_profile_tool) - Manage your friendlist, invites, bio, rank, status, tokens and a lot of other things in the client 
+
 * [Ancient Chimes](https://github.com/ulgg/ancient-chimes) - Export your friends list into a text file.
 
 * [ARAM Zone](https://aram.zone/) - ARAM-focused website that provides many detailed builds for each champion, tierlist and match history.
