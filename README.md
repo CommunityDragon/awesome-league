@@ -23,7 +23,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## Applications
 
-* [league_profile_tool](https://github.com/l9lenny/league_profile_tool) - Manage your friendlist, invites, bio, rank, status, tokens and a lot of other things in the client 
+* [league_profile_tool](https://github.com/l9lenny/league_profile_tool) - Manage your friend list, invites, bio, rank, status, tokens, and more within the client.
 
 * [Ancient Chimes](https://github.com/ulgg/ancient-chimes) - Export your friends list into a text file.
 
