@@ -109,7 +109,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [LeagueStats](https://leaguestats.gg/) - Website that provides global complete data for all League of Legends summoners.
 
-* [LoL-Tracker](https://lol-tracker.com/) -Team performance tracker for League of Legends Flex squads and competitive teams.
+* [LoL-Tracker](https://lol-tracker.com/) - Team performance tracker for League of Legends Flex squads and competitive teams.
 
 * [LeagueStreams.gg](https://leaguestreams.gg) - Browse through Live League of Legends Streams with in-Game Informations or watch thousands of VODs by Champion, Lane or even Opponent.
 
