@@ -79,6 +79,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Pengu Loader](https://pengu.lol/) - Unleash the power of Customization from your League of Legends Client.
 
+* [Proview](https://proview.es/) - Launch any pro player's live game or replay directly in your League client to spectate and learn from them, plus pro stats, builds and tier lists.
+
 * [RuneBook](https://github.com/Soundofdarkness/RuneBook) - App that can import runes from many sources. Updated fork of the original app.
 
 * [RuneChanger](https://github.com/stirante/RuneChanger) - Allows you to quickly import runes, select recently played champions, promptly reply in chat, and automate disenchanting and crafting loot.
