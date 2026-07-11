@@ -43,6 +43,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Disenchanter](https://github.com/marvinscham/disenchanter) - Mass disenchant loot like champion shards, skin shards, mythic essence and more.
 
+* [Hextech Draft](https://github.com/jimman0I/League-Auto-Accept-Enhanced-Menu) - Automates queue accept, champion pick/ban, runes, spells, and item builds via the LCU API, with per-role configs and auto-update.
+
 * [Hextech Friends](https://hextechfriends.github.io/) - Enables you to invite a lot of people at once.
 
 * [Hwei's Brush](https://github.com/rico-vz/Hweis-Brush) - Change your League of Legends Profile background to any splash art of your choice.
