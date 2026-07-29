@@ -117,6 +117,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Weered](https://weered.ca) - Lobby and voice-room platform for League communities; pulls summoner profiles, ranked leaderboards, and free rotation via the Riot API.
 
+* [LoL Recommender](https://www.lolrecommender.com) - Finds your main champion from a playstyle quiz, your Riot ID match history, champions you already play, or your mains from other games.
+
 ## Content Creation
 
 * [League Director](https://github.com/RiotGames/leaguedirector) - Official tool for making advanced League of Legends replays.
