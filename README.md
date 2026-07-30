@@ -81,6 +81,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Proview](https://proview.es/) - Launch any pro player's live game or replay directly in your League client to spectate and learn from them, plus pro stats, builds and tier lists.
 
+* [Prowler](https://github.com/whosneksio/prowler) - Lightweight Tauri desktop app with account switching, champ select automation (instalock, autoban, auto accept, auto runes/summoners), and profile customization.
+
 * [RuneBook](https://github.com/Soundofdarkness/RuneBook) - App that can import runes from many sources. Updated fork of the original app.
 
 * [RuneChanger](https://github.com/stirante/RuneChanger) - Allows you to quickly import runes, select recently played champions, promptly reply in chat, and automate disenchanting and crafting loot.
