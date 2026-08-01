@@ -115,6 +115,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Weered](https://weered.ca) - Lobby and voice-room platform for League communities; pulls summoner profiles, ranked leaderboards, and free rotation via the Riot API.
 
+* [LoL Quick](https://lolquick.com) - Champion builds, counter picks, matchups, and tier lists based on live Riot API data.
+
 ## Content Creation
 
 * [League Director](https://github.com/RiotGames/leaguedirector) - Official tool for making advanced League of Legends replays.
