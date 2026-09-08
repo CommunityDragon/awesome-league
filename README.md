@@ -115,6 +115,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Weered](https://weered.ca) - Lobby and voice-room platform for League communities; pulls summoner profiles, ranked leaderboards, and free rotation via the Riot API.
 
+* [Hextech Secretary 海克斯小秘书](https://aramkit.cdqyfdbymn.me/) - An ARAM Mayhem (ARAM with Hextech augments) guide website with champion win-rate tier list, builds, skill orders and augment recommendations, aggregated from three stats sources and available in 12 languages.
+
 ## Content Creation
 
 * [League Director](https://github.com/RiotGames/leaguedirector) - Official tool for making advanced League of Legends replays.
