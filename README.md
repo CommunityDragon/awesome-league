@@ -119,6 +119,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [ggez.gg](https://ggez.gg/) - Champion builds, tier lists and summoner profiles built from Emerald+ ranked games via the Riot API, with per-patch impact pages and an AI match review.
 
+* [LoLFinder](https://lolfinder.net/en) - Teammate finder for Ranked Solo/Duo, Flex, ARAM and Clash. Listings show rank, roles and recent matches from the Riot API; 11 regions, 14 languages, no registration needed.
+
 ## Content Creation
 
 * [League Director](https://github.com/RiotGames/leaguedirector) - Official tool for making advanced League of Legends replays.
