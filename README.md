@@ -117,6 +117,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Weered](https://weered.ca) - Lobby and voice-room platform for League communities; pulls summoner profiles, ranked leaderboards, and free rotation via the Riot API.
 
+* [SeeMeta](https://seemeta.com/en/lol) - Champion tier lists by lane, builds, counters and item stats, rebuilt daily from ranked match data, in 10 languages.
+
 ## Content Creation
 
 * [League Director](https://github.com/RiotGames/leaguedirector) - Official tool for making advanced League of Legends replays.
