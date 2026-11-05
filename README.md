@@ -117,6 +117,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Weered](https://weered.ca) - Lobby and voice-room platform for League communities; pulls summoner profiles, ranked leaderboards, and free rotation via the Riot API.
 
+* [LoLFinder](https://lolfinder.net/en) - Teammate finder for Ranked Solo/Duo, Flex, ARAM and Clash. Listings show rank, roles and recent matches from the Riot API; 11 regions, 14 languages, no registration needed.
+
 ## Content Creation
 
 * [League Director](https://github.com/RiotGames/leaguedirector) - Official tool for making advanced League of Legends replays.
