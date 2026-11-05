@@ -95,6 +95,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 ## External Apps
 
+* [Outdraft.gg](https://outdraft.gg) - Draft preparation and analysis tool featuring champion pick suggestions, team composition analysis, build recommendations, match reviews, friend tracking, and personalized improvement goals.
+
 * [Clean Cuts](https://blossomishymae.github.io/clean-cuts/) - Provides League of Legends game data in a human-friendly format.
 
 * [Elo.rip](https://elo.rip/) - A chaotic champion randomizer.
