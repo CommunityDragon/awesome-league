@@ -29,7 +29,7 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [ARAM Zone](https://aram.zone/) - ARAM-focused website that provides many detailed builds for each champion, tierlist and match history.
 
-* [Baron Buff](https://baronbuff.com) - Draft assistant and coaching tool with champion recommendations, gameplay tips, and post-game improvement insights. 
+* [Baron Buff](https://baronbuff.com) - League of Legends AI coach, companion app, LoL tracker and helper with live draft analysis, rune and build recommendations, matchup tips, post-game reviews, match history and progress tracking, and an optional lightweight Windows overlay.
 
 * [Blitz App](https://blitz.gg/) - All in one assistant that provides information about the team, imports runes, and item builds.
 
