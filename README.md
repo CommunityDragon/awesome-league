@@ -43,6 +43,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Disenchanter](https://github.com/marvinscham/disenchanter) - Mass disenchant loot like champion shards, skin shards, mythic essence and more.
 
+* [Hexgate](https://hexgate.app/) - Desktop overlay that reorders item builds against the enemy team using the Live Client Data API, imports rune pages in champion select, and analyzes finished games from the match timeline.
+
 * [Hextech Friends](https://hextechfriends.github.io/) - Enables you to invite a lot of people at once.
 
 * [Hwei's Brush](https://github.com/rico-vz/Hweis-Brush) - Change your League of Legends Profile background to any splash art of your choice.
