@@ -65,6 +65,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [LolAV](https://github.com/PixelHir/lolav) - A desktop app that will allow you to set one of the hidden Tencent icons for your profile.
 
+* [LoLDraftAI](https://loldraftai.com) - Desktop app and web tool that reads champion select via the LCU and predicts draft win probability with a neural network.
+
 * [LoL Society](https://lolsociety.com/) - A stats website that provides many detailed builds and stats for each champion, and champion and builds tierlists.
 
 * [Lytical](https://github.com/LyticalApp/Lytical) - Match statistics and profile analytics app for all regions including Garena & WeGame.
