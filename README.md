@@ -117,6 +117,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Weered](https://weered.ca) - Lobby and voice-room platform for League communities; pulls summoner profiles, ranked leaderboards, and free rotation via the Riot API.
 
+* [Streakly.gg](https://streakly.gg) - League of Legends stats site built around win and loss streaks, showing current and all-time best streaks, per-champion runs, and a heatmap of recent matches.
+
 ## Content Creation
 
 * [League Director](https://github.com/RiotGames/leaguedirector) - Official tool for making advanced League of Legends replays.
