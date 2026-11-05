@@ -115,6 +115,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Weered](https://weered.ca) - Lobby and voice-room platform for League communities; pulls summoner profiles, ranked leaderboards, and free rotation via the Riot API.
 
+* [ggez.gg](https://ggez.gg/) - Champion builds, tier lists and summoner profiles built from Emerald+ ranked games via the Riot API, with per-patch impact pages and an AI match review.
+
 ## Content Creation
 
 * [League Director](https://github.com/RiotGames/leaguedirector) - Official tool for making advanced League of Legends replays.
