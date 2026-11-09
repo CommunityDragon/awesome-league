@@ -119,6 +119,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [ggez.gg](https://ggez.gg/) - Champion builds, tier lists and summoner profiles built from Emerald+ ranked games via the Riot API, with per-patch impact pages and an AI match review.
 
+* [KayLoL](https://kaylol.gg/) - Win chances while the draft is still going, and why: graded practice drafts, a daily draft puzzle, and win rates by rank and champion mastery.
+
 ## Content Creation
 
 * [League Director](https://github.com/RiotGames/leaguedirector) - Official tool for making advanced League of Legends replays.
