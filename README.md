@@ -119,6 +119,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [ggez.gg](https://ggez.gg/) - Champion builds, tier lists and summoner profiles built from Emerald+ ranked games via the Riot API, with per-patch impact pages and an AI match review.
 
+* [KDX.gg](https://kdx.gg/) - League of Legends website with champion stats, builds, tier lists, player profiles, leaderboards, and browser tools.
+
 ## Content Creation
 
 * [League Director](https://github.com/RiotGames/leaguedirector) - Official tool for making advanced League of Legends replays.
@@ -178,3 +180,4 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 * [Download League of Legends Data Dragon](https://github.com/marketplace/actions/download-league-of-legends-data-dragon) - A GitHub Action for downloading the Data Dragon on a runner.
 
 * [Get League Patch](https://github.com/marvinscham/get-league-patch) - A GitHub Action saving the latest patch into a variable.
+
