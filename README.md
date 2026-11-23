@@ -119,6 +119,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [ggez.gg](https://ggez.gg/) - Champion builds, tier lists and summoner profiles built from Emerald+ ranked games via the Riot API, with per-patch impact pages and an AI match review.
 
+* [Roast My Stats](https://www.roast-my-stats.com) - Scores your last 20 Summoner's Rift games out of 100 across four role-normalized axes via the Riot API, then has an AI roast the result. Free, no account needed, all regions.
+
 ## Content Creation
 
 * [League Director](https://github.com/RiotGames/leaguedirector) - Official tool for making advanced League of Legends replays.
