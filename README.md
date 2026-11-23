@@ -51,6 +51,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [Insert Mission Here](https://github.com/Earleking/2018-Riot-API-Challenge) - Creates custom missions for clubs.
   
+* [Invade](https://invade.lol/app) - Free desktop companion for Windows and macOS that sets runes and shows counter picks in champion select, adds an in-game overlay with objective timers and the next item from the Live Client Data API, and keeps match history, post-game analysis and automatic clips.
+
 * [League Fan](https://github.com/league-fan/league-fan.github.io) - A website for previewing League of Legends summoner Icons, emotes, and others.
 
 * [LeagueRecord](https://github.com/FFFFFFFXXXXXXX/league_record) - A lightweight program that automatically records LoL games and saves the timestamps of the most important events in the game.
